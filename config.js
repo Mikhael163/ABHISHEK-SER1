@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['917510764691', 'ALBIN-SHAJI', true],
   [''],
   [''] 
 ] //Number of owners
@@ -47,19 +47,19 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = 'ALBIN-SHAJI'
 global.premium = 'true'
-global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
-global.author = 'ABHISHEK SURESH' 
-global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/abhishek_ser\n' 
-global.dygp = 'https://chat.whatsapp.com/BOLb0ICN3sAJ5dloRBw5VD'
-global.fgsc = 'https://github.com/AbhishekSuresh2/ABHISHEK-SER' 
+global.packname = 'ALBIN-SHAJI🌝🪄' 
+global.author = 'ALBIN-SHAJI' 
+global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/_albin__x96_?igsh=MTNlMXd2a204MXVyZQ==\n' 
+global.dygp = 'https://wa.me/917510764691'
+global.fgsc = 'https://github.com/Mikhael163' 
 global.fgyt = 'https://youtube.com/@comedymelodych8468'
 global.fgpyp = 'https://youtube.com/@comedymelodych8468'
 global.fglog = 'https://replicate.delivery/pbxt/QbP6Fh3ZXwKON9SCB70ERGwwgeeSbztwKIOIzhUeXFkwnFHiA/out.png' 
 
 //imagen
-global.imagen1 = fs.readFileSync('./src/Abhi.jpg')
+global.imagen1 = fs.readFileSync('https://i.imgur.com/MyL5VHG.jpg')
 
 //Dont Edit Danger Zone⚠️
 global.wait = '*⌛ _Please Wait..._*'
